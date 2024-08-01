@@ -45,6 +45,7 @@ The model's performance is evaluated on the test set, and predictions are made. 
 ### Visualization:
 
 The plot of the global temperature prediction is saved as `Prediction_GRU.png` with high DPI (400).
+![Prediction Image](Prediction_GRU.png)
 
 ### Note:
 
